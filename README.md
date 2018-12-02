@@ -12,8 +12,8 @@ This project shows how to write arduino code for the nRF52832, such as the Spark
 *See details below.*
 
 ### Prerequisites
-You need [Sparkfun nRF52832 Breakout board](https://learn.sparkfun.com/tutorials/nrf52832-breakout-board-hookup-guide) or similar, with the Arduino environment up and running. You need some kind of 3.3v FTDI to program the board over a serial port. You need a [DS18B20](https://www.sparkfun.com/products/11050) temperature sensor. For outdoor use I suggest the waterproof model. 
-To read the data over BLE I suggest you use a  raspberry Pi3, with the [Go](https://golang.org/) compiler environment installed, unless you choose to c ross compile on some other machine.
+You need [Sparkfun nRF52832 Breakout board](https://learn.sparkfun.com/tutorials/nrf52832-breakout-board-hookup-guide) or similar, with the Arduino environment up and running. You need some kind of 3.3v FTDI to program the board over the serial port. You need a [DS18B20](https://www.sparkfun.com/products/11050) temperature sensor. For outdoor use I suggest the waterproof model. 
+To read the data over BLE I suggest you use a  raspberry Pi3, with the [Go](https://golang.org/) compiler environment installed, unless you choose to cross compile on some other machine.
 
 
 ### nrf52Blink
