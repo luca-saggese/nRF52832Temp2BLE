@@ -1,7 +1,7 @@
 
 ## READ Temperature over BLE
 
-This project shows how to write arduino code for the nRF52832, such as the Sparkfun breakout board, using a DS18B20 temperature sensor using an interrupt routine. It also shows how to use BLE to make a Raspberry PI read this data from the nRF52 board.
+This project shows how to write an Arduino code utilizing an interrupt routine, for the nRF52832, such as the Sparkfun breakout board. Using a DS18B20 temperature sensor, this routine can then periodically have the temperature data be made available over BLE. It also shows how to use BLE to make a Raspberry PI read this data from the nRF52 board.
 
 ### Sub Folders
 
